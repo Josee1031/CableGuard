@@ -21,8 +21,8 @@ Though still in the development phase, the ultimate goal is to build upon this i
 
 Clone this repository: git clone https://github.com/Josee1031/Cable-Damage.git
 Install necessary packages from requirements.txt: pip install -r requirements.txt
-Run the model on an image: python detect.py --image_path /path/to/your/image.jpg
-Future Work
+Run the model on an image: yolo predict model=/path to model/yolov8n.pt source='/path to picture/' imgsz=320 show=True save=True box=True
+
 
 The project could have future developments including:
 
