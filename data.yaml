@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['break', 'thunderbolt']
+
+roboflow:
+  workspace: roboflow-100
+  project: cable-damage
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/roboflow-100/cable-damage/dataset/2
