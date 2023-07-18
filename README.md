@@ -1,8 +1,10 @@
 # CableGuard
 Cable Damage Detection with YOLOv8
 
-This repository contains a YOLOv8-based object detection model trained on a custom dataset to identify signs of cable damage. This work could play an instrumental role in improving disaster preparedness and maintaining infrastructure integrity, particularly in regions prone to natural disasters.
 ![alt text](https://github.com/Josee1031/CableGuard/blob/main/runs/detect/train/val_batch2_labels.jpg)
+
+This repository contains a YOLOv8-based object detection model trained on a custom dataset to identify signs of cable damage. This work could play an instrumental role in improving disaster preparedness and maintaining infrastructure integrity, particularly in regions prone to natural disasters.
+
 
 # Project Objective
 
