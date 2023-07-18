@@ -19,7 +19,7 @@ Though still in the development phase, the ultimate goal is to build upon this i
 
 # Prerequisites: Python 3.x, PyTorch 1.x, and requirements from requirements.txt installed.
 
-Clone this repository: git clone https://github.com/Josee1031/Cable-Damage.git
+Clone this repository: git clone https://github.com/Josee1031/CableGuard.git
 Install necessary packages from requirements.txt: pip install -r requirements.txt
 Run the model on an image: yolo predict model=/path to model/yolov8n.pt source='/path to picture/' imgsz=320 show=True save=True box=True
 
